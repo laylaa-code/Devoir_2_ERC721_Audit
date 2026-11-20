@@ -1,0 +1,19 @@
+{
+  "name": "certification-erc721-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "ethers": "6.15.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "devDependencies": {
+    "vite": "6.3.0"
+  }
+}
